@@ -14,4 +14,5 @@ This program released under the [MIT license](https://opensource.org/licenses/MI
 
 ## FujiChat
 ![Preview](fujichat.jpg)
+
 A functional but half-baked chat program allowing any number of Atari 8-bit computers to text chat.
