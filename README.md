@@ -1,5 +1,5 @@
 # FujiNet
-Various programs for #FujiNet for Atari 8-bit
+Various programs in Atari BASIC for #FujiNet for Atari 8-bit
 
 ## FujiNet-3D Tic Tac Toe
 ![Preview](fujinet-3dTTT.jpg)
