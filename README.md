@@ -2,7 +2,7 @@
 Various programs for #FujiNet for Atari 8-bit
 
 ## FujiNet-3D Tic Tac Toe
-![Preview](fujinet-3dTTT)
+![Preview](fujinet-3dTTT.jpg)
 In 1978, Scott Adams wrote a 3-D Tic Tac Toe game, for player vs. CPU opponent. In 1981, Tom Schaeper ported it to Atari 8-bit. In December 2020, I hacked it to work player vs. player over the Internet, using the #FujiNet Atari networking device.
 
 ## FujiNet-bounce
