@@ -13,5 +13,5 @@ Bounce a ball between two Atari 8-bit computers, located in the same room or eve
 This program released under the [MIT license](https://opensource.org/licenses/MIT)
 
 ## FujiChat
-
+![Preview](fujichat.jpg)
 A functional but half-baked chat program allowing any number of Atari 8-bit computers to text chat.
