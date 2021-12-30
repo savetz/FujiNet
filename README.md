@@ -1,5 +1,5 @@
 # FujiNet
-Various programs in Atari BASIC for #FujiNet for Atari 8-bit
+Various programs in Atari BASIC for [#FujiNet](https://fujinet.online) for Atari 8-bit
 
 ## FujiNet-3D Tic Tac Toe
 ![Preview](fujinet-3dTTT.jpg)
@@ -15,4 +15,4 @@ This program released under the [MIT license](https://opensource.org/licenses/MI
 ## FujiChat
 ![Preview](fujichat.jpg)
 
-A functional but half-baked chat program allowing any number of Atari 8-bit computers to text chat.
+A functional but half-baked chat program allowing any number of Atari 8-bit computers to text chat, using a python server.
